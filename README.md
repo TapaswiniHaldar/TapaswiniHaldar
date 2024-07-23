@@ -5,6 +5,18 @@
 
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+- 🔭 I am honing my dev and python skills.
+- 🌱 I am currently learning Python/Django 
+- 👯 I’m looking to collaborate in web dev projects
+- 💬 Ask me About Web development and Web Technolgies.
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:arjyo77@gmail.com) 
+- ⚡ Fun fact: I love to go to the gym
+- Profile views: ![](https://komarev.com/ghpvc/?username=arjyo851)
+
+<br>
+<h2>📊 Github Stats</h2>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapaswinihaldar&label=Profile%20views&color=0e75b6&style=flat" alt="tapaswinihaldar" /> </p>
 
 - 📫 How to reach me **tapaswinihaldar477@gmail.com**
