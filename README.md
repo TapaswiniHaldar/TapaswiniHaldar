@@ -3,8 +3,8 @@
 <br>
 <p align="center"><img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png"></p>
 
-<h3 align="left"> 🔭 A passionate Software Engineer from India</h3>
-<!--<p align="right"><img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></p>-->
+<h3 align="center"> 🔭 A passionate Software Engineer from India</h3>
+
 - 🔭 I am honing my dev and python skills.
 - 🌱 I am currently learning Python/Django 
 - 👯 I’m looking to collaborate in web dev projects
