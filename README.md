@@ -17,11 +17,11 @@
 <h2>📊 Github Stats</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tapaswinihaldar&show_icons=true&locale=en" alt="tapaswinihaldar" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tapaswinihaldar&label=Profile%20views&color=0e75b6&style=flat" alt="tapaswinihaldar" /> </p>
 
-- 📫 How to reach me **tapaswinihaldar477@gmail.com**
 
-- ⚡ Fun fact **I love to go to the gym**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,7 +47,6 @@
 <br>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tapaswinihaldar&show_icons=true&locale=en" alt="tapaswinihaldar" /></p>
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapaswinihaldar&" alt="tapaswinihaldar" /></p>
