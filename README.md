@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Tapaswini Haldar 👋 </h1>
 <br>
 <br>
-<p align="center"><img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></p>
+<!--<p align="center"><img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></p>-->
 
 <p align="center"><img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png"></p>
 
