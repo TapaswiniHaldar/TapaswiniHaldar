@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tapaswini Haldar</h1>
+<h1 align="center">### Hi there, I'm Tapaswini Haldar 👋 </h1>
+<br>
+<br>
+<p align="center"><img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png"></p>
+
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapaswinihaldar&label=Profile%20views&color=0e75b6&style=flat" alt="tapaswinihaldar" /> </p>
